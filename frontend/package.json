@@ -16,6 +16,7 @@
     "ethers": "^6.13.5",
     "eventemitter3": "^5.0.1",
     "framer-motion": "^12.7.2",
+    "lucide-react": "^0.488.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
